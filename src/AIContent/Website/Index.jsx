@@ -142,7 +142,7 @@ export default function Website({ setShowWebsite }) {
                     </div>
                     <h4 className="title">
                       <a href="" className="stretched-link">
-                        Professional Design
+                        نموذج فائق
                       </a>
                     </h4>
                   </div>
@@ -158,14 +158,10 @@ export default function Website({ setShowWebsite }) {
                       <i className="bi bi-headset" />
                     </div>
                     <h2 className="title">
-                      <a href="" className="stretched-link">
-                        24/7
-                      </a>
+                      <a className="stretched-link">سهولة</a>
                     </h2>
                     <h4 className="title">
-                      <a href="" className="stretched-link">
-                        Quick Support For All Clients
-                      </a>
+                      <a className="stretched-link">سهولة الإستخدام</a>
                     </h4>
                   </div>
                 </div>
@@ -180,9 +176,7 @@ export default function Website({ setShowWebsite }) {
                       <i className="bi bi-person-check" />
                     </div>
                     <h4 className="title">
-                      <a href="" className="stretched-link">
-                        Satisfaction Guranteed
-                      </a>
+                      <a className="stretched-link">رضاك هدفنا</a>
                     </h4>
                   </div>
                 </div>
